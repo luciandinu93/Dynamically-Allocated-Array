@@ -9,4 +9,4 @@ Output: Display the array
 
 Objective: I want to reinvent the wheel a little with the purpose of learning.
 
-Any help is welcomed :)
+Any help is welcome :)
